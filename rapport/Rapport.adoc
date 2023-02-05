@@ -1,0 +1,20 @@
+=== Synthèse du classement en fonction de différents critères :
+
+|==========================================================================
+| Évaluation| Algo | Lisibilité  | Qualité | Temps d'exécution | Sobriété | Complexité Cyclomatique   
+
+| 5   | simplicité-47.c  |  {plus}{plus}{plus}{plus} | B|N/A|N/A |N/A
+| 4   | simplicité-2.java|{plus}{plus}{plus}{plus}{plus}| D|N/A|N/A |N/A
+| 2   | simplicité-26.java |  {plus}{plus}{plus} | B|N/A|N/A|N/A
+| 2   | simplicité-159.py |  {plus}{plus}   | A|N/A|N/A|N/A
+| 5   | efficacité-24.java |  N/A | A|{plus}{plus}{plus}{plus}|N/A|5
+| 4   | efficacité-96.py   |  N/A | D|{plus}{plus}{plus}{plus}|N/A|10
+| 2   | efficacité-46.py   |  N/A | B|{plus}{plus}{plus}|N/A|10
+| 1   | efficacité-126.py  |  N/A | D|{plus}{plus}|N/A|1
+| 5   | sobriété-76.c |  N/A |A|N/A|{plus}{plus}{plus}{plus}{plus}|N/A
+| 4   | sobriété-113.java  |  N/A |A|N/A|{plus}{plus}{plus}|N/A
+| 1   | sobriété-133.c  |  N/A |A|N/A|N/A|N/A
+
+|==========================================================================
+
+Toute l’argumentation et les méthodes sur lesquelles je me suis appuyé pour établir ce classement se trouvent dans le PDF du dossier ‘analyse’. link:https://github.com/IUT-Blagnac/sae2-02-EstebanBiret/blob/64f0127425f396dcf580ca659a63b6458d192089/analyse/Analyses.pdf[ici]
